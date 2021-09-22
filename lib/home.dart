@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:flutter_redux/flutter_redux.dart';
 import 'package:redux/redux.dart';
-import 'package:redux_example/redux.dart';
+import 'package:redux_example/redux_service.dart';
 
 class Home extends StatelessWidget {
   Home({Key? key}) : super(key: key);

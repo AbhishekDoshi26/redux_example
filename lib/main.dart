@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
 import 'package:redux_example/home.dart';
 import 'package:redux/redux.dart';
-import 'package:redux_example/redux.dart';
+import 'package:redux_example/redux_service.dart';
 
 void main() => runApp(MyApp());
 
